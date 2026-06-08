@@ -1,7 +1,2 @@
-### 如何启动服务器
-
-打开文件夹直到出现 server.js ，安装NodeJS程序并运行：
-
-> node server.js
-
-出现提示 localhost:10377即可
+# Warning: HXList正在迁移仓库并更新
+当前幻星服务器运行v1.26.06我们预计于7月全部更新API和手册，快速上手开发
